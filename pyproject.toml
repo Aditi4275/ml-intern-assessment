@@ -1,0 +1,14 @@
+[project]
+name = "ml-intern-assessment"
+version = "0.1.0"
+description = "Trigram Language Model"
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [
+    { name="Aditi Mehta" }
+]
+keywords = ["nlp", "language-model", "trigram", "attention"]
+dependencies = [
+    "numpy >= 1.18.0".
+    "pytest >= 7.0.0"
+]
